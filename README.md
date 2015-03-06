@@ -1,5 +1,4 @@
 # repo-t
-repo github pertama yang membuat report
 
 index dari group belajar-java (https://www.facebook.com/groups/1551068508508353/)
 
