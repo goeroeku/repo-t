@@ -11,14 +11,14 @@ https://www.facebook.com/groups/1551068508508353/permalink/1551591661789371/
 Polling Project : 
 https://www.facebook.com/groups/1551068508508353/permalink/1551147755167095/
 
-Database :
-PostgreSQL :  https://www.facebook.com/groups/1551068508508353/permalink/1552039968411207/
+Database :<br/>
+PostgreSQL :  https://www.facebook.com/groups/1551068508508353/permalink/1552039968411207/<br/>
 Open source licence : 
 https://www.facebook.com/groups/1551068508508353/permalink/1551582738456930/
 
-About GIT (Source Code Management)
+About GIT (Source Code Management)<br/>
 Git workflows : https://www.facebook.com/groups/1551068508508353/permalink/1551202121828325/
-Berkolaborasi dengan GIT : https://meruvian.atlassian.net/wiki/display/MVN/Berkolaborasi+dengan+GIT
+Berkolaborasi dengan GIT : https://meruvian.atlassian.net/wiki/display/MVN/Berkolaborasi+dengan+GIT<br/>
 Commiter : https://www.facebook.com/groups/1551068508508353/permalink/1551161028499101/
 
 Apache maven : 
