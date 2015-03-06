@@ -17,7 +17,7 @@ Open source licence :
 https://www.facebook.com/groups/1551068508508353/permalink/1551582738456930/
 
 About GIT (Source Code Management)<br/>
-Git workflows : https://www.facebook.com/groups/1551068508508353/permalink/1551202121828325/
+Git workflows : https://www.facebook.com/groups/1551068508508353/permalink/1551202121828325/<br/>
 Berkolaborasi dengan GIT : https://meruvian.atlassian.net/wiki/display/MVN/Berkolaborasi+dengan+GIT<br/>
 Commiter : https://www.facebook.com/groups/1551068508508353/permalink/1551161028499101/
 
